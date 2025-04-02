@@ -16,8 +16,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/osaidnur" target="blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" /></a>
-  <a href="https://fb.com/osaidnur" target="blank"><img src="https://img.icons8.com/color/48/facebook-new.png" width="40" /></a>
-  <a href="https://instagram.com/osaid_nur" target="blank"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="40" /></a>
   <a href="https://www.hackerrank.com/osaidnur" target="blank"><img src="https://img.icons8.com/windows/48/hackerrank.png" width="40" /></a>
   <a href="https://codeforces.com/profile/osaidnur" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" /></a>
   <a href="https://www.leetcode.com/osaidnur" target="blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" width="40" /></a>
